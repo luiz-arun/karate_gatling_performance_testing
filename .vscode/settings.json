@@ -1,0 +1,5 @@
+{
+    "karateRunner.karateRunner.default": "TestRunner",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "terminal.integrated.scrollback": 1e+24
+}
